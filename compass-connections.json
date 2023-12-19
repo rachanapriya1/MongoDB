@@ -1,0 +1,54 @@
+{
+  "type": "Compass Connections",
+  "version": {
+    "$numberInt": "1"
+  },
+  "connections": [
+    {
+      "id": "66fa72d0-e888-414a-a719-7476b2aa2eb5",
+      "lastUsed": {
+        "$date": {
+          "$numberLong": "1702562562692"
+        }
+      },
+      "favorite": {
+        "name": "new",
+        "color": "color1"
+      },
+      "connectionOptions": {
+        "connectionString": "mongodb://localhost:27017/",
+        "oidc": {
+          "serializedState": "eyJvaWRjUGx1Z2luU3RhdGVWZXJzaW9uIjowLCJzdGF0ZSI6W119"
+        }
+      }
+    },
+    {
+      "id": "7ddca1ad-519e-4b4a-b9cf-83c616817341",
+      "lastUsed": {
+        "$date": {
+          "$numberLong": "1702561457808"
+        }
+      },
+      "favorite": {
+        "name": "priya",
+        "color": "color3"
+      },
+      "connectionOptions": {
+        "connectionString": "mongodb://localhost:27017/",
+        "oidc": {
+          "serializedState": "eyJvaWRjUGx1Z2luU3RhdGVWZXJzaW9uIjowLCJzdGF0ZSI6W119"
+        }
+      }
+    },
+    {
+      "id": "dde209a2-80d7-4733-99fd-ea59e23b1438",
+      "favorite": {
+        "name": "priya",
+        "color": "color3"
+      },
+      "connectionOptions": {
+        "connectionString": "mongodb://E:\\Rachanapriya/"
+      }
+    }
+  ]
+}
